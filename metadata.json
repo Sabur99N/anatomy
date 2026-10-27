@@ -1,0 +1,5 @@
+{
+  "name": "Anatomy3D - Interactive Human Anatomy",
+  "description": "An interactive educational web application for visualizing human organs using 3D triangle particle meshes. Explore, learn, and test your knowledge with interactive models and quizzes.",
+  "requestFramePermissions": []
+}
